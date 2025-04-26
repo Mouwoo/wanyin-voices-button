@@ -3,7 +3,7 @@
   "neko_mimi": true,
   "name": {
     "CN": {
-      "title": "语音按钮",
+      "title": "晚音按钮",
       "fullName": ""
     },
     "EN": {
@@ -19,32 +19,20 @@
     "bilibili": ""
   },
   "related": [],
-  "link": [
-    {
-      "name": "Hiiro按钮",
-      "url": "https://hiiro.club/",
-      "background": "#F5C1BB"
-    },
-    {
-      "name": "七奈按钮",
-      "url": "https://kaguranana-button-blacktunes.vercel.app/",
-      "background": "#c4afd0"
-    }
-  ],
   "footer": {
     "author": [
       {
-        "name": "Blacktunes",
-        "url": "https://github.com/blacktunes"
+        "name": "Mouwoo",
+        "url": "https://github.com/Mouwoo"
       }
     ],
     "info": [
       ""
     ],
-    "githubUrl": "https://github.com/blacktunes/voices-button"
+    "githubUrl": "https://github.com/Mouwoo/wanyin-voices-button"
   },
   "console": {
-    "text": "https://github.com/blacktunes/voices-button",
+    "text": "https://github.com/Mouwoo/wanyin-voices-button",
     "size": "",
     "color": "",
     "img": "",
