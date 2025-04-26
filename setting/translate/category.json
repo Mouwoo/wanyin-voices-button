@@ -1,9 +1,37 @@
 [
   {
-    "name": "名言",
+    "name": "打招呼",
     "translate": {
-      "zh-CN": "猫猫名言~",
-      "en-US": "Witticisms~"
+      "zh-CN": "打招呼",
+      "en-US": "Greeting"
+    }
+  }
+  {
+    "name": "感谢",
+    "translate": {
+      "zh-CN": "感谢",
+      "en-US": "Thanks"
+    }
+  }
+  {
+    "name": "下班",
+    "translate": {
+      "zh-CN": "下班",
+      "en-US": "Goodbye"
+    }
+  }
+  {
+    "name": "怪话",
+    "translate": {
+      "zh-CN": "怪话",
+      "en-US": "Witticisms"
+    }
+  }
+  {
+    "name": "怪叫",
+    "translate": {
+      "zh-CN": "怪叫",
+      "en-US": "Sounds"
     }
   }
 ]
